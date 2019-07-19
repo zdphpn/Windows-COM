@@ -1,0 +1,10 @@
+
+EXPORTS
+
+	checkCom  @1
+	configCom @2
+	openCom   @3
+	recvData  @4
+	sendData  @5
+	closeCom  @6
+	clearCache @7
