@@ -1,5 +1,4 @@
 
-#include "windows.h"
 #include "comopt.h"
 #include <stdio.h>
 
