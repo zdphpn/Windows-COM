@@ -2,6 +2,7 @@
 #ifndef _COMOPT_H
 #define _COMOPT_H
 
+#include "windows.h"
 
 extern "C"
 {
